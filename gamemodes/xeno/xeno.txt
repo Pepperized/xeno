@@ -1,0 +1,10 @@
+"Xeno"
+{
+	"base"				"fretta13"
+	"title"				"Xeno"
+	"menusystem"		"1"
+
+	"author_name"		"Pepperized"
+	"author_email"		""
+	"author_url"		""
+}
